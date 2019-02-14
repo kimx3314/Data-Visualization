@@ -1,4 +1,4 @@
-# Data-Visualization
-( Tableu/R/Python )
+### Data Visualization
+### Visual Analysis of Trending YouTube Data
 
-by Sungil Kim
+by Sean Sungil Kim
